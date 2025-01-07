@@ -41,7 +41,8 @@ Para executar o jogo localmente, siga os passos abaixo:
 
 ## Imagem do Jogo
 
-![Imagem do Jogo](caminho/para/imagem.png)
+![Imagem do Jogo](https://github.com/user-attachments/assets/6822e338-dfd0-4d17-9e1d-b30cc8be7d74)
+
 
 ## Contribuições
 
